@@ -1,1 +1,3 @@
 # variables
+
+www.patika.dev
